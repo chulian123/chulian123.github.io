@@ -1,8 +1,8 @@
-**Hang Xiao**, Principal Investigator (**PI**)
+**Wenhao Li**, Principal Investigator (**PI**)
 
-Ph.D. in *Environmental Engineering*, Columbia University, USA
+M.Sc. in *Computer Science*, Lingnan University, CN-HK
 
-Email: <hangxiao@ln.edu.hk>
+Email: <wenhaoli9@ln.edu.hk>
 
 **Short presentation**  
 
